@@ -7,21 +7,14 @@ Welcome
 ~~~~~~~~~
 
 .. raw:: html
-   <embed>
-   <div style="width: 100%; height: 300px; background-color:transparent !important; margin: 0 auto; display: block;"  data-wordart-src="//cdn.wordart.com/json/ur3ckeu2u6wx" data-wordart-show-attribution></div> 
-   </embed>
-   
-   <div style="width: 100%; height: 300px; background-color:transparent !important; margin: 0 auto; display: block;"  data-wordart-src="//cdn.wordart.com/json/ur3ckeu2u6wx" data-wordart-show-attribution></div> 
   
+Questo repository nasce blah blah....
 
-Questo repository nasce per **mettere a fattore comune scambi di conoscenza/esperienza** blah blah....
 
-Contenuti:
-~~~~~~~~~~
 
 .. toctree:: 
     :maxdepth: 3
-    :caption: indice 
+    :caption: Indice 
     
     marcombdocs
     tutorials
