@@ -23,7 +23,6 @@ Contenuti:
     :maxdepth: 3
     :caption: indice 
     
-    ggeditor-script-per-google-doc
     marcombdocs
     tutorials
     issues
