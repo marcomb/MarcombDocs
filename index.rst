@@ -18,16 +18,17 @@ Questo repository nasce per **mettere a fattore comune scambi di conoscenza/espe
 
 Contenuti:
 ~~~~~~~~~~
-    
-.. toctree::
-  :maxdepth: 2
 
-  Home <https://marcombdocs.readthedocs.io/en/latest/>
-  
-.. toctree::
-   :maxdepth: 2
-      
-   docsection
+.. toctree:: 
+    :maxdepth: 3
+    :caption: indice 
+    
+    ggeditor-script-per-google-doc
+    marcombdocs
+    tutorials
+    issues
+
+
 
 
 
